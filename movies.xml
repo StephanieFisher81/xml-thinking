@@ -1,0 +1,58 @@
+<imdb>
+    <movies>
+        <movie>
+            <title>Sherlock Holmes</title>
+            <director>Guy Ritchie</director>
+            <characters>
+                <character>
+                    <name>Sherlock Holmes</name>
+                    <actor>Robert Downey, Jr.</actor>
+                </character>
+                <character>
+                    <name>Dr. John Watson</name>
+                    <actor>Jude Law</actor>
+                </character>
+                <character>
+                    <name>Irene Adler</name>
+                    <actress>Rachel McAdams</actress>
+                </character>
+            </characters>
+        </movie>
+        <movie>
+            <title>Sherlock Holmes: A Game of Shadows</title>
+            <director>Guy Ritchie</director>
+            <characters>
+                <character>
+                    <name>Sherlock Holmes</name>
+                    <actor>Robert Downey, Jr.</actor>
+                </character>
+                <character>
+                    <name>Dr. John Watson</name>
+                    <actor>Jude Law</actor>
+                </character>
+                <character>
+                    <name>Professor James Moriarty</name>
+                    <actor>Jared Harris</actor>
+                </character>
+            </characters>
+        </movie>
+        <movie>
+            <title>Knives Out</title>
+            <director>Rian Johnson</director>
+            <characters>
+                <character>
+                    <name>Benoit Blanc</name>
+                    <actor>Daniel Craig</actor>
+                </character>
+                <character>
+                    <name>Ransom Drysdale</name>
+                    <actor>Chris Evans</actor>
+                </character>
+                <character>
+                    <name>Marta Cabrera</name>
+                    <actress>Ana de Armas</actress>
+                </character>
+            </characters>
+        </movie>
+    </movies>
+</imdb>
